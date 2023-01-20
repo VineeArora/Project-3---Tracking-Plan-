@@ -1,4 +1,4 @@
-# Project-3---Tracking-Plan-
+# Project 3-Tracking Plan
 Create a tracking plan for The Chocolate Shop Demo Website 
 
 ## The Chocolate Shop - Tracking plan 
